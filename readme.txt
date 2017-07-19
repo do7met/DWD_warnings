@@ -1,6 +1,6 @@
 Hallo liebe Person mit (hoffentlich vorhandenem) Interesse an Unwetter-Warnungen, 
 
-es folgen ein par Hinweise zur Verwendung des Codes,
+es folgen ein paar Hinweise zur Verwendung des Codes,
 der in den folgenden beiden Dateien steht:
 dwd_warnings.sh
 warnings.py
